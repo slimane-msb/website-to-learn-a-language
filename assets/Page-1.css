@@ -1,0 +1,20 @@
+.u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 529px;
+}
+
+.u-section-1 .u-video-1 {
+  height: 500px;
+  margin-top: 5px;
+  margin-bottom: 24px;
+  margin-left: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-video-1 {
+    margin-left: initial;
+  }
+}
